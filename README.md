@@ -16,6 +16,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 ```
 
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/37ed9d0f-4223-45bd-88b3-c9378a039c1d" />
+
 ```markdown
 ## Day 2 Lab 2B — Errors handled
 
