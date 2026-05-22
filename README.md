@@ -32,3 +32,17 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 ## Sample résumés processed: 3 / 3 successful
 ```
 
+
+```markdown
+## Day 4 — Productivity sprint
+
+**Company:** <COMPANY>
+**Time:** 45 minutes (timeboxed)
+
+### Edit notes (3 lines)
+
+1. Gamma confabulated a "hiring 50,000 freshers in 2025" stat on slide 6. Source said 40,000. Edited.
+2. Slide 4 listed "Kubernetes" as a required skill — actually nice-to-have per the JD. Edited.
+3. Slide 1 (cover) — replaced Gamma's generic "Your Career Awaits" with a company-specific line.
+```
+
