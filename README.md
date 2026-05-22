@@ -36,7 +36,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 ```markdown
 ## Day 4 — Productivity sprint
 
-**Company:** <COMPANY>
+**Company:** Amazon
 **Time:** 45 minutes (timeboxed)
 
 ### Edit notes (3 lines)
