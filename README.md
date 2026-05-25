@@ -45,7 +45,7 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 2. Slide 4 listed "Kubernetes" as a required skill — actually nice-to-have per the JD. Edited.
 3. Slide 1 (cover) — replaced Gamma's generic "Your Career Awaits" with a company-specific line.
 ```
-
+##Day 6-Errors handled
 1. **Markdown fence wrapping** (`\`\`\`json ... \`\`\``)
    The retry prompt asks Gemini to output raw JSON without fences. Triggers on ~5-10% of calls.
 
