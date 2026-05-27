@@ -55,4 +55,19 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 3. **Empty / whitespace-only input**
    Pydantic raises ValidationError with "Field required". Caller catches.
 
+
+   ```markdown
+## Day 9 Lab 9A — Hello-LangGraph
+
+- 1-tool ReAct agent with DuckDuckGo web_search
+- 4-message trace on a live-fact question (TCS 2026 hiring)
+- Failure case: bad URL → agent reported "could not find" / agent hallucinated [pick one]
+
+### Reflection (3 lines)
+
+1. The trace IS the explanation. Print every step.
+2. The doc-string IS the prompt. Bad doc-string = bad tool selection.
+3. Real agents handle tool failures gracefully — define failure modes in the doc-string.
+```
+
 **Hallucination on garbage input:** Gemini sometimes invents a plausible résumé from non-résumé text. Defence: validate input before sending (e.g., minimum length, presence of email-like pattern).
